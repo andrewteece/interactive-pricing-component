@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@600;700&display=swap');
+
+:root {
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-md: 1.25rem;
+  --fs-lg: 1.75rem;
+  --fs-xlg: 2rem;
+  --fs-xxlg: 2.5rem;
+
+  --clr-neutral-400: hsl(0, 0%, 100%); /* pricing comp bg */
+  --clr-neutral-500: hsl(230, 100%, 99%); /* main bg */
+  --clr-neutral-600: hsl(224, 65%, 95%); /* empty slider bar */
+  --clr-neutral-700: hsl(223, 50%, 87%); /* toggle bg */
+  --clr-neutral-800: hsl(225, 20%, 60%); /* text */
+  --clr-neutral-900: hsl(227, 35%, 25%); /* text & cta bg */
+
+  --clr-primary-400: hsl(174, 77%, 80%); /* full slider bar */
+  --clr-primary-500: hsl(174, 86%, 45%); /* slider bg */
+  --clr-primary-600: hsl(14, 92%, 95%); /* discount bg */
+  --clr-primary-700: hsl(15, 100%, 70%); /* discoutn text */
+  --clr-primary-800: hsl(226, 100%, 87%); /* cta text */
+
+  --ff-primary: 'Manrope', sans-serif;
+
+  --fw-600: 600;
+  --fw-800: 800;
+}
